@@ -1,5 +1,5 @@
 # node-framebuffer
-
+[![Build Status](https://travis-ci.org/denghongcai/node-framebuffer.svg?branch=master)](https://travis-ci.org/denghongcai/node-framebuffer)
 
 A framebuffer wrapper for Node.js
 
