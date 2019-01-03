@@ -1,10 +1,10 @@
 {
   "name": "framebuffer",
-  "version": "0.2.0",
+  "version": "1.0.0",
   "description": "",
   "main": "index.js",
   "engines": {
-    "node": ">=9.4"
+    "node": ">=10"
   },
   "scripts": {
     "test": "echo \"Warning: no test specified\" && exit 0"
