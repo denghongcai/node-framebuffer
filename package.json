@@ -1,6 +1,6 @@
 {
   "name": "framebuffer",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "",
   "main": "index.js",
   "engines": {
@@ -20,10 +20,10 @@
   },
   "homepage": "https://github.com/denghongcai/node-framebuffer",
   "dependencies": {
-    "ioctl": "^1.0.1",
-    "mmap-io": "^1.0.0",
-    "ref": "^1.0.2",
-    "ref-array": "^1.1.1",
-    "ref-struct": "^1.0.1"
+    "ioctl-napi": "^0.3.0",
+    "mmap-io": "^1.1.7",
+    "ref-array-napi": "^1.2.2",
+    "ref-napi": "^3.0.3",
+    "ref-struct-napi": "^1.1.1"
   }
 }
